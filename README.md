@@ -17,3 +17,5 @@ To use MultiNewsTV, simply visit the website and select the news channels you wa
 - A modern web browser
 - Internet connection
 
+#### Note:
+- Stream Filtering is bugged right now. I will fix soon.
