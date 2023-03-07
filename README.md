@@ -18,4 +18,4 @@ To use MultiNewsTV, simply visit the website and select the news channels you wa
 - Internet connection
 
 #### Note:
-- Stream Filtering is bugged right now. I will fix soon.
+- Stream Filtering is bugged right now. I am aware about this issue.
