@@ -19,3 +19,9 @@ To use MultiNewsTV, simply visit the website and select the news channels you wa
 
 #### Note:
 - Stream Filtering is bugged right now. I am aware about this issue.
+
+
+#### V2 Goals:
+- Custom multi tv and streams layout page
+- Add streams to deck via channel names
+- Choose between layout and design options
